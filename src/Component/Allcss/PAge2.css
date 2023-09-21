@@ -1,0 +1,71 @@
+.buttonclasscss{
+    border: 0.1rem solid rgb(0, 0, 0);
+    width: 35rem;
+   
+}
+.arrowcss{
+    color: rgb(255, 110, 20);
+   
+}
+
+.buttonpage23{
+    height: 4rem;
+    width: 45rem;
+    font-size: 20px;
+    text-align: left;
+    
+    border: 1px solid rgb(99, 98, 98);
+    border-radius: 10px;
+}
+.buttonpage2{
+    height: 4rem;
+    width: 45rem;
+    font-size: 20px;
+    text-align: left;
+    margin-top: 10vh;
+    border: 1px solid rgb(99, 98, 98);
+    border-radius: 10px;
+}
+.buttonarrowpage2{
+    color: white;
+    background-color:rgb(255, 110, 20) ;
+    margin-left: 20rem;
+    border-radius: 3rem;
+}
+.buttonarrowpage3{
+    color: white;
+    background-color:rgb(255, 110, 20) ;
+    margin-left: 21.7rem;
+    border-radius: 3rem;
+}
+.buttonarrowpage6{
+    color: white;
+    background-color:rgb(255, 110, 20) ;
+    margin-left: 25.4rem;
+    border-radius: 3rem;
+}
+.buttonarrowpage7{
+    color: white;
+    background-color:rgb(255, 110, 20) ;
+    margin-left: 27.7rem;
+    border-radius: 3rem;
+}
+.buttonarrowpage8{
+    color: white;
+    background-color:rgb(255, 110, 20) ;
+    margin-left: 22rem;
+    border-radius: 3rem;
+    
+}
+.buttonarrowpage5{
+    color: white;
+    background-color:rgb(255, 110, 20) ;
+    margin-left: 18.6rem;
+    border-radius: 3rem;
+}
+.buttonarrowpage4{
+    color: white;
+    background-color:rgb(255, 110, 20) ;
+    margin-left: 16.5rem;
+    border-radius: 3rem;
+}

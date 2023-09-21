@@ -1,0 +1,16 @@
+.third-word-color {
+    color: rgb(255, 110, 20); /* Change the color to your desired color */
+  }
+  .custom-button1{
+    display: flex;
+  justify-content: center;
+  align-items: center;
+ 
+  border-radius: 5rem;
+  /* height: 200px; */
+  /* border: 3px solid green;  */
+    
+  }
+  .cssbutton{
+    border:0.1rem solid rgb(255, 110, 20);
+  }

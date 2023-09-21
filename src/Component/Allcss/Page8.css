@@ -1,0 +1,45 @@
+@media (max-width: 575.98px) {
+  .classcsspage8a{
+    border-bottom: 0.1rem solid rgb(10, 10, 10);
+    border-width: 0.1rem;
+  }
+  .csspage8picfromsm{
+    margin-left: 6rem;
+  }
+}
+
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+  .clasnamecsspage8{
+    border-bottom: 0.1rem solid rgb(10, 10, 10);
+    width:40%;
+    /* border-left-width: 5rem; */
+    margin-left: 30%;
+  }
+  .csspage8picfromsm{
+    margin-left: 6rem;
+  }
+}
+
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+  .clasnamecsspage8{
+    border-bottom: 0.1rem solid rgb(10, 10, 10);
+    border-width: 0.1rem;
+    width:50%;
+    /* border-left-width:rem; */
+  }
+}
+
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+  .classcsspage8a{
+    border-right: 0.1rem solid rgb(10, 10, 10);
+  }
+}
+
+@media (min-width: 1200px) {
+  .classcsspage8a{
+    border-right: 0.1rem solid rgb(10, 10, 10);
+  }
+}

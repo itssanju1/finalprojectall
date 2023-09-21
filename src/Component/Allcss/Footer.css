@@ -1,0 +1,106 @@
+
+
+@media (max-width: 575.98px) {
+    .classfootercol1{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .classfootercol2{
+        justify-content: center;
+        align-items: center;
+    }
+    .classnamefootercss56{
+        margin-left: 5rem;
+    }
+    .classfootercol1451{
+        margin-left: 7rem;
+    }
+    .classfootercol14512{
+        margin-left: 17%;
+        width: 95%;
+        
+    }
+    .classfootercol145121{
+        margin-left: 17%;
+        width: 95%; 
+    }
+  }
+  
+  
+  @media (min-width: 576px) and (max-width: 767.98px) {
+    .classfootercol1{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .classfootercol145{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-left: 9rem;
+    }
+    .classfootercol1451{
+        margin-left: 7rem;
+    }
+    .classfootercol14512{
+        margin-left: 17%;
+        width: 95%;
+        
+    }
+    .lastdicfooter{
+        margin-left: 9rem;
+    }
+    .divfooter4sicon{
+        margin-left: 5rem;
+    }
+    .classfootercol145121{
+        margin-left: 17%;
+        width: 95%; 
+    }
+    .classfootercol2{
+        justify-content: center;
+        align-items: center;
+    color:red;
+    margin-left: 50px;
+    }
+    .classh4footercss{
+        text-align: center;
+    }
+    .classnamefootercss56{
+        margin-left: 15rem;
+    }
+  }
+  
+  
+  @media (min-width: 768px) and (max-width: 991.98px) {
+    .classfootercol1{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .classh4footercss{
+        text-align: center;
+    }
+  }
+  
+  
+  @media (min-width: 992px) and (max-width: 1199.98px) {
+    .classfootercol01{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+  }
+  
+  @media (min-width: 1200px) {
+  .classfootercol14512{
+    margin-left: 5%;
+    width: 100%;
+  }
+  .classfootercol145121{
+    margin-left: 5%;
+    width: 100%;
+  }
+  }
+  

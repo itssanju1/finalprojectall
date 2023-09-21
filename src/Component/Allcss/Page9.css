@@ -1,0 +1,33 @@
+.custom-button1{
+    display: flex;
+  justify-content: center;
+  align-items: center;
+ 
+  border-radius: 5rem;
+  /* height: 200px; */
+  /* border: 3px solid green;  */
+    
+  }
+  .cssbutton{
+    border:0.1rem solid rgb(255, 110, 20);
+  }
+  .csspage9sss{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+  }
+  @media (min-width: 992px) and (max-width: 1199.98px) {
+    
+  .csspage9sss1{
+    margin-left: 8rem;
+  }
+  }
+  
+  @media (min-width: 1200px) {
+    
+  .csspage9sss1{
+    margin-left: 8rem;
+  }
+  }
+  
